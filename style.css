@@ -124,6 +124,7 @@ body{
     .card-item{
         display: flex;
         width: 700px;
+        height: 375px;
     }
     
 }
